@@ -1,4 +1,4 @@
-# YOLOv5 Fine-Tuning and Evaluation  
+# Domain Adaptation for Object Detection: Fine-Tuning YOLOv5 on GAN-Generated Street View Images
 **By Tanya Budhrani & LEE Ka Chun, Caius**
 
 This project explores a dual-pipeline approach in computer vision, combining **image-to-image translation using GANs** and **object detection using YOLOv5**. It investigates how domain adaptation techniques such as **fine-tuning** and **test-time augmentation (TTA)** can improve YOLOv5 performance when detecting objects in synthetically generated images.
