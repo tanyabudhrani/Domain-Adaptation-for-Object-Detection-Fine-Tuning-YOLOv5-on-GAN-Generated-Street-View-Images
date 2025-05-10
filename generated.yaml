@@ -1,5 +1,0 @@
-train: fine_tune_data/images/train
-val: fine_tune_data/images/val
-
-nc: 10
-names: ['Road', 'House', 'Traffic Light', 'Pole', 'Tree', 'Light', 'Billboard', 'Trash Can', 'Car', 'Human']

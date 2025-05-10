@@ -1,5 +1,0 @@
-House
-Road
-Light
-Traffic Light
-Tree
